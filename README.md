@@ -40,6 +40,7 @@ Download the repository as a zip file, and import the .zip into [MultiMC](https:
 * Mekanism Additions
 * MineColonies (disabled due to a game crashing bug concerning F3)
 * Mining Helmet
+* ModernUI
 * Modular Routers
 * MouseTweaks
 * Nature's Compass

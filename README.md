@@ -67,5 +67,7 @@ Download the repository as a zip file, and import the .zip into [MultiMC](https:
 * Useful Backpacks
 * Valhelsia Structures
 * Waystones
+* Woodcutter
 * Xaero's Minimap
+
 * XP Tome

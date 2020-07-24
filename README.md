@@ -20,6 +20,7 @@ Download the repository as a zip file, and import the .zip into [MultiMC](https:
 * Cooking For Blockheads
 * Cosmetic Armor Reworked
 * CraftTweaker
+* Cute Kiwi Birds
 * Decorative Blocks
 * Ding
 * DoubleSlabs
@@ -34,6 +35,7 @@ Download the repository as a zip file, and import the .zip into [MultiMC](https:
 * Inventory Tweaks Renewed
 * JEI Tweaker
 * Just Enough Items
+* KubeJS
 * Macaw's Bridges
 * Macaw's Doors
 * Mekanism
@@ -50,6 +52,7 @@ Download the repository as a zip file, and import the .zip into [MultiMC](https:
 * Pam's Harvestcraft 2 (food core only)
 * Ping
 * Quantum Storage
+* Quark
 * RandomPatches
 * Rats
 * Redstone Gauges and Switches
